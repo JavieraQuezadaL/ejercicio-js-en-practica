@@ -1,0 +1,9 @@
+.cajacolores {
+    display: flex;
+    flex-direction: column
+}
+
+.cajagrande {
+    display: flex;
+
+}
